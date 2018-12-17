@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Fit Logistic Regression
+
+```yaml
+type: VideoExercise
+key: 9bd98b4ec1
+xp: 50
+```
+
+`@projector_key`
+407f1f66af858cc19e8b121be75997e9
